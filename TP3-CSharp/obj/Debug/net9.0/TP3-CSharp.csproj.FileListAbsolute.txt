@@ -1,0 +1,15 @@
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\bin\Debug\net9.0\TP3-CSharp.deps.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\bin\Debug\net9.0\TP3-CSharp.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\bin\Debug\net9.0\TP3-CSharp.pdb
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\obj\Debug\net9.0\TP3-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\obj\Debug\net9.0\TP3-CSharp.AssemblyInfoInputs.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\obj\Debug\net9.0\TP3-CSharp.AssemblyInfo.cs
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\obj\Debug\net9.0\TP3-CSharp.csproj.CoreCompileInputs.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\obj\Debug\net9.0\TP3-CSharp.sourcelink.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\obj\Debug\net9.0\TP3-CSharp.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\obj\Debug\net9.0\refint\TP3-CSharp.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\obj\Debug\net9.0\TP3-CSharp.pdb
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\obj\Debug\net9.0\ref\TP3-CSharp.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\bin\Debug\net9.0\TP3-CSharp.exe
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\bin\Debug\net9.0\TP3-CSharp.runtimeconfig.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\obj\Debug\net9.0\TP3-CSharp.genruntimeconfig.cache

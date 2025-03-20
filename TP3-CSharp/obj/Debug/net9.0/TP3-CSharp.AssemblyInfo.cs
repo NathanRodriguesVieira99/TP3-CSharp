@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP3-CSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18be6ff93e3aeced9ef048ea611fbbad40964d09")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP3-CSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP3-CSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
