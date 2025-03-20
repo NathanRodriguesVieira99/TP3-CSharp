@@ -1,0 +1,15 @@
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\bin\Debug\net8.0\Ex10ao12.exe
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\bin\Debug\net8.0\Ex10ao12.deps.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\bin\Debug\net8.0\Ex10ao12.runtimeconfig.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\bin\Debug\net8.0\Ex10ao12.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\bin\Debug\net8.0\Ex10ao12.pdb
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\obj\Debug\net8.0\Ex10ao12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\obj\Debug\net8.0\Ex10ao12.AssemblyInfoInputs.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\obj\Debug\net8.0\Ex10ao12.AssemblyInfo.cs
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\obj\Debug\net8.0\Ex10ao12.csproj.CoreCompileInputs.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\obj\Debug\net8.0\Ex10ao12.sourcelink.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\obj\Debug\net8.0\Ex10ao12.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\obj\Debug\net8.0\refint\Ex10ao12.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\obj\Debug\net8.0\Ex10ao12.pdb
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\obj\Debug\net8.0\Ex10ao12.genruntimeconfig.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex10ao12\obj\Debug\net8.0\ref\Ex10ao12.dll
