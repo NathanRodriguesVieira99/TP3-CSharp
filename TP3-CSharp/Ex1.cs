@@ -2,9 +2,9 @@
 
 public class Assassino
 {
-    private string nome;
-    private string mestre;
-    private string irmandade;
+    private string? nome;
+    private string? mestre;
+    private string? irmandade;
 
     public string CriarAssassino()
     {

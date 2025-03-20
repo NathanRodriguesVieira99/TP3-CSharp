@@ -1,0 +1,15 @@
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\obj\Debug\net8.0\Ex2ao6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\obj\Debug\net8.0\Ex2ao6.AssemblyInfoInputs.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\obj\Debug\net8.0\Ex2ao6.AssemblyInfo.cs
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\obj\Debug\net8.0\Ex2ao6.csproj.CoreCompileInputs.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\obj\Debug\net8.0\Ex2ao6.sourcelink.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\bin\Debug\net8.0\Ex2ao6.exe
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\bin\Debug\net8.0\Ex2ao6.deps.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\bin\Debug\net8.0\Ex2ao6.runtimeconfig.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\bin\Debug\net8.0\Ex2ao6.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\bin\Debug\net8.0\Ex2ao6.pdb
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\obj\Debug\net8.0\Ex2ao6.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\obj\Debug\net8.0\refint\Ex2ao6.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\obj\Debug\net8.0\Ex2ao6.pdb
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\obj\Debug\net8.0\Ex2ao6.genruntimeconfig.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex2ao6\obj\Debug\net8.0\ref\Ex2ao6.dll

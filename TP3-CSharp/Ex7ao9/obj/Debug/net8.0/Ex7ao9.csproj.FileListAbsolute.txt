@@ -1,0 +1,15 @@
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\bin\Debug\net8.0\Ex7ao9.exe
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\bin\Debug\net8.0\Ex7ao9.deps.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\bin\Debug\net8.0\Ex7ao9.runtimeconfig.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\bin\Debug\net8.0\Ex7ao9.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\bin\Debug\net8.0\Ex7ao9.pdb
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\obj\Debug\net8.0\Ex7ao9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\obj\Debug\net8.0\Ex7ao9.AssemblyInfoInputs.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\obj\Debug\net8.0\Ex7ao9.AssemblyInfo.cs
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\obj\Debug\net8.0\Ex7ao9.csproj.CoreCompileInputs.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\obj\Debug\net8.0\Ex7ao9.sourcelink.json
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\obj\Debug\net8.0\Ex7ao9.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\obj\Debug\net8.0\refint\Ex7ao9.dll
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\obj\Debug\net8.0\Ex7ao9.pdb
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\obj\Debug\net8.0\Ex7ao9.genruntimeconfig.cache
+C:\Projetos VsCode\TP3-CSharp\TP3-CSharp\Ex7ao9\obj\Debug\net8.0\ref\Ex7ao9.dll
